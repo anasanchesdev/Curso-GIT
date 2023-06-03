@@ -15,5 +15,5 @@ Learning GIT and Github
 - How to create new branches: _git checkout -b + new branch + base branch_
 - How to change current branch: _git checkout + branch name_
 - How to make a pull request
-- How to create a git ignore file: touch .gitignore
-- Add files to git ignore: add file's path to gitignore textbook
+- How to create a git ignore file: _touch .gitignore_
+- Add files to git ignore: _add file's path to gitignore textbook_
